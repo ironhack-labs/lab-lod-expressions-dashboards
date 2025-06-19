@@ -1,0 +1,1 @@
+https://public.tableau.com/views/tableau_lab_grouping_data/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
